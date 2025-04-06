@@ -1,7 +1,7 @@
-import p1_img from "../assets/product_1.png";
-import p2_img from "../assets/product_2.jpg";
-import p3_img from "../assets/product_3.jpg";
-import p4_img from "../assets/product_4.jpg";
+import p1_img from "./p1_img.png";
+import p2_img from "./p2_img.png";
+import p3_img from "./p3_img.png";
+import p4_img from "./p4_img.png";
 
 let data_prroduct = [
   {
