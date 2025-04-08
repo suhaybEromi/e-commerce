@@ -12,7 +12,7 @@ export default function Offers() {
       </div>
 
       <div className="offers-right">
-        <img src={exclusive_image} width="500px" />
+        <img src={exclusive_image} />
       </div>
     </div>
   );
